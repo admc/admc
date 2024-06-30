@@ -1,4 +1,2 @@
-[![Status for @admc](https://badge.stateful.com/admc/status.svg)](https://app.stateful.com/@admc)
-
-[![Status for @admc](https://badge.stateful.com/admc/dnd.svg)](https://app.stateful.com/@admc)
-
+ - Building https://stateful.com for collaborative team DevOps.
+ - Check out https://runme.dev to explore our OSS tech!
